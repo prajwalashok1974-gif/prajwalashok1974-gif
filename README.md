@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Prajwal A 👋
 
-<!--
-**prajwalashok1974-gif/prajwalashok1974-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA student and software developer from Bangalore, India, building practical software with a focus on **full-stack applications, backend APIs, and AI-powered productivity tools**.
 
-Here are some ideas to get you started:
+## What I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Business platforms:** inventory, production, sales, and workforce workflows
+- **Backend systems:** REST APIs, authentication, role-based access, databases, and migrations
+- **AI and analytics:** productivity prediction, dashboards, and actionable insights
+
+## Featured projects
+
+### [SA Silks](https://github.com/prajwalashok1974-gif/sa-silks-app)
+Full-stack manufacturing and wholesale management platform using React, TypeScript, FastAPI, Supabase, and Tailwind CSS.
+
+### [Employee Management System API](https://github.com/prajwalashok1974-gif/Employee-Management-System-API)
+Production-style FastAPI service with PostgreSQL, SQLAlchemy, JWT authentication, RBAC, Alembic migrations, Pytest, and Docker.
+
+### [AI Personal Study Tracker](https://github.com/prajwalashok1974-gif/AI-Personal-Study-Tracker)
+Streamlit analytics application that uses SQLite and a Random Forest model to help learners understand and improve their study habits.
+
+## Tech stack
+
+`Python` `FastAPI` `React` `TypeScript` `JavaScript` `PostgreSQL` `SQLite` `Supabase` `SQLAlchemy` `JWT` `Docker` `Pytest` `Streamlit` `Tailwind CSS`
+
+## Currently focused on
+
+Building reliable, user-focused applications and strengthening my skills in system design, testing, cloud deployment, and applied AI.
+
+## Connect
+
+- GitHub: [@prajwalashok1974-gif](https://github.com/prajwalashok1974-gif)
