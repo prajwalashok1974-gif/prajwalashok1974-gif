@@ -44,14 +44,7 @@ A full-stack business management system for saree manufacturing workflows, cover
 ### [AI Personal Study Tracker](https://github.com/prajwalashok1974-gif/AI-Personal-Study-Tracker)
 A Streamlit application for study-session tracking, productivity analytics, interactive Plotly visualizations, PDF reports, SQLite persistence, and Random Forest productivity estimation using scikit-learn.
 
-## GitHub activity
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prajwalashok1974-gif&show_icons=true&hide_border=true&rank_icon=github&theme=default" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalashok1974-gif&layout=compact&hide_border=true&theme=default" alt="Most used languages" />
-</p>
-
-[![GitHub streak](https://streak-stats.demolab.com?user=prajwalashok1974-gif&hide_border=true)](https://git.io/streak-stats)
 
 ## Education
 
